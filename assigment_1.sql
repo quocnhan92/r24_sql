@@ -6,3 +6,9 @@ CREATE TABLE customers(
     customer_name	VARCHAR(50),
     create_date		DATE
 );
+
+CREATE TABLE products(
+	product_id		INT,
+    product_name	VARCHAR(50),
+    create_date		DATE
+);
